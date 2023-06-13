@@ -1,0 +1,36 @@
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    width: 300px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+}
+
+.card h2 {
+    margin-top: 0;
+}
+
+.card p {
+    color: #888;
+}
+
+.card a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    text-decoration: none;
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.card a:hover {
+    background-color: #45a049;
+}
