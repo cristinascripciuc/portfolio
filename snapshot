@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snapshot</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="snapshot.html">Snapshot</a></li>
+        </ul>
+    </nav>
+    
+    <h1>Snapshot</h1>
+    
+    <div class="image-container">
+        <img src="pizza.jpeg" alt="Snapshot Image">
+    </div>
+    
+    <p>This is a snapshot of my Pizza-App.</p>
+    
+   
+</body>
+</html>
