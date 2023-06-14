@@ -17,7 +17,7 @@
     <h1>Snapshot</h1>
     
     <div class="image-container">
-        <img src="pizza.jpeg" alt="Snapshot Image">
+        <img src="pizza.png" alt="Snapshot Image">
     </div>
     
     <p>This is a snapshot of my Pizza-App.</p>
