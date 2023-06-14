@@ -52,7 +52,7 @@ p {
 .portfolio {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .card {
@@ -90,7 +90,7 @@ p {
 
 .social-icons {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     margin-top: 20px;
 }
 
