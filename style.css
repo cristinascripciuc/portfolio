@@ -7,12 +7,12 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #fff;
     text-align: center;
 }
 
 nav {
-    background-color: #f1f1f1;
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 10px;
     margin-bottom: 20px;
 }
@@ -30,17 +30,17 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: #fff;
     padding: 5px 10px;
 }
 
 nav ul li a:hover {
-    background-color: #333;
+    background-color: rgba(255, 255, 255, 0.3);
     color: #fff;
 }
 
 p {
-    color: #666;
+    color: #ccc;
     line-height: 1.5;
     text-align: justify;
 }
@@ -55,16 +55,18 @@ p {
     width: 300px;
     padding: 20px;
     margin-bottom: 20px;
-    background-color: #f1f1f1;
+    background-color: #333;
     border-radius: 4px;
     box-sizing: border-box;
+}
 
 .card h2 {
     margin-top: 0;
+    color: #fff;
 }
 
 .card p {
-    color: #888;
+    color: #ccc;
 }
 
 .card a {
